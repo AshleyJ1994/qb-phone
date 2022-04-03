@@ -1,4 +1,5 @@
-![grab-landing-page](https://itzlarsen.xyz/uploads/images/u9m4xRqQkvQf3L7F4UFeJdxrw.gif)
+### Edited by LuCkY  - For REV RP 
+
 
 # qb-phone
 Phone for QB-Core Framework. Edited for a NP-Style look with a few extra things, This file has been edited with the changes noted
